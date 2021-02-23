@@ -1,2 +1,2 @@
-# Other_Codes
-This is for others kinds of codes
+# Hoildays_Codes
+I'm just coding for fun on Holidays.
