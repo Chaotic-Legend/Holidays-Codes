@@ -1,2 +1,2 @@
 # Holidays_Codes
-I'm just coding for fun on Holidays.
+I'm just coding for fun on the holidays.
