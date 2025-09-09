@@ -51,6 +51,6 @@ int main(void)
     sleep(2);
     
     printf("Happy April Fools' Day!\n");
-    printf("From, Isaac D. Hoyos");
+    printf("Best Wishes, Isaac D. Hoyos");
     return 0;
 }
